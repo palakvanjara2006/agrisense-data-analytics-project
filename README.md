@@ -1,4 +1,4 @@
-# Week 2: Data Collection Strategy and Cleaning Plans
+Week2_Data_Collection_and_Cleaning_Plan_v2.pdf`: the full report.
 
 A strategy and cleaning plan for a simulated integrated farm-to-market agribusiness, **AgriSense Farms Pvt Ltd**, operating in Gujarat and Madhya Pradesh (wheat, rice and soybean). Builds on the Week 1 data landscape report.
 
